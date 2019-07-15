@@ -1,7 +1,7 @@
 public class Puppy {
 	int puppyAge;
 
-	public Puppy(String name) {
+	public Puppy(String namea) {
 		System.out.println("Passed Name is " + name);
 	}
 
@@ -10,7 +10,7 @@ public class Puppy {
 	}
 
 	public int getAge() {
-		// System.out.println("Puppy's age is " + puppyAge);
+		// System.out.println("Puppy's age was " + puppyAge);
 		return puppyAge;
 	}
 
